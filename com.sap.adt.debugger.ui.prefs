@@ -1,0 +1,4 @@
+alwaysCreateExceptionObject=true
+debugAutomaticSharedObjectAreaConstructors=true
+eclipse.preferences.version=1
+suspendBackgroundRfcRequests=true

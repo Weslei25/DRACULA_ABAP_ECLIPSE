@@ -1,0 +1,8 @@
+SHD.com.sap.adt.destinations.ui.internal.logon.LogonDataComposite.CLIENT=100
+SHD.com.sap.adt.destinations.ui.internal.logon.LogonDataComposite.USER=8689
+SHP.com.sap.adt.destinations.ui.internal.logon.LogonDataComposite.CLIENT=800
+SHP.com.sap.adt.destinations.ui.internal.logon.LogonDataComposite.USER=8689
+SHQ.com.sap.adt.destinations.ui.internal.logon.LogonDataComposite.CLIENT=800
+SHQ.com.sap.adt.destinations.ui.internal.logon.LogonDataComposite.USER=8689
+com.sap.adt.destinations.ui.internal.logon.LogonDataComposite.USER=8689
+eclipse.preferences.version=1
